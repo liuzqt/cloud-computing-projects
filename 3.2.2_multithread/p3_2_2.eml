@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="JavaSE-1.8">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="helper_class" scope="COMPILE">
+		<relative-module-cls project-related="file://$PROJECT_DIR$/p3_2_2/helper_class"/>
+	</lib>
+</component>
